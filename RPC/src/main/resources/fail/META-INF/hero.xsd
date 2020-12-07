@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns="http://hulk.com/schema/user" targetNamespace="http://hulk.com/schema/user"
+            elementFormDefault="qualified">
+    <xsd:element name="GetMethodPath">
+        <xsd:complexType>
+            <xsd:attribute name="method"  />
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

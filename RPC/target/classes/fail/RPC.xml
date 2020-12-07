@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://hulk.com/schema"
+       targetNamespace="http://hulk.com/schema"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xmlns:hero="http://hulk.com/schema"
+       xsi:schemaLocation="http://hulk.com/schema http://hulk.com/schema/hero.xsd">
+             <hero:GetMethodPath method="org.springframework.util"/>
+</beans>

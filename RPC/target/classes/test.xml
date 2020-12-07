@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--自定义 父节点-->
+<beans>
+    <!--自定义 子节点-->
+    <beans id="cat" path="com.PRC.Service.Test1" />
+    <beans id="dog" path="com.PRC.Service.Test"/>
+</beans>
